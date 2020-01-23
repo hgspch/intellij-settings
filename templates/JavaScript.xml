@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log('$MSG$');&#10;$END$" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

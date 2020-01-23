@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="plantuml4idea plugin/Disable Syntax Check" />
+  </component>
+</application>

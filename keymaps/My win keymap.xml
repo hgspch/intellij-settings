@@ -1,0 +1,10 @@
+<keymap version="1" name="My win keymap" parent="$default">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt f2" />
+  </action>
+</keymap>

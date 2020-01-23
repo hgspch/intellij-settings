@@ -1,0 +1,9 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/angular" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
