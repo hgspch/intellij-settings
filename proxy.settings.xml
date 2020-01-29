@@ -1,6 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="sl-olfeo" />
     <option name="PROXY_PORT" value="3129" />
     <option name="PROXY_AUTHENTICATION" value="true" />
