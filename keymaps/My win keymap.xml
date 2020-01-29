@@ -17,4 +17,12 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl alt f2" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt right_parenthesis" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt 5" />
+  </action>
 </keymap>
