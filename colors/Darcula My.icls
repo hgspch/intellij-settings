@@ -3,11 +3,12 @@
     <property name="created">2018-10-12T15:19:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2020-01-21T17:39:43</property>
+    <property name="modified">2020-02-01T14:20:52</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="1026" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="231c56" />
     <option name="INFORMATION_HINT" value="2b65" />
   </colors>
