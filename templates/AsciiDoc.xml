@@ -1,8 +1,13 @@
 <templateSet group="AsciiDoc">
-  <template name="ad-s" value="----&#10;$SOURCE$&#10;----&#10;&#10;$END$" description="Source code simple" toReformat="false" toShortenFQNames="true">
+  <template name="ad-s" value="----&#10;$SOURCE$$END$&#10;----&#10;" description="Source code simple" toReformat="false" toShortenFQNames="true">
     <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="AsciiDoc" value="true" />
     </context>
+  </template>
+  <template name="ad-source" value="[source]&#10;.$FILENAME$&#10;----&#10;$SOURCE$&#10;----" description="Source code" toReformat="false" toShortenFQNames="true">
+    <variable name="FILENAME" expression="" defaultValue="&quot;filename&quot;" alwaysStopAt="true" />
+    <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
