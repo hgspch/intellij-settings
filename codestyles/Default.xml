@@ -5,14 +5,16 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
     <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
