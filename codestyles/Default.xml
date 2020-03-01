@@ -6,6 +6,9 @@
     </value>
   </option>
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <AsciiDocCodeStyleSettings>
+    <option name="FORMATTING_ENABLED" value="false" />
+  </AsciiDocCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
