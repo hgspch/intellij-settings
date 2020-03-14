@@ -8,6 +8,5 @@
   <template name="ad-source" value="[source]&#10;.$FILENAME$&#10;----&#10;$SOURCE$&#10;----" description="Source code" toReformat="false" toShortenFQNames="true">
     <variable name="FILENAME" expression="" defaultValue="&quot;filename&quot;" alwaysStopAt="true" />
     <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
