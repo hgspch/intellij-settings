@@ -1,0 +1,26 @@
+<templateSet group="Bootstrap 4">
+  <template name="bs4-media-list" value="&lt;ul class=&quot;media-list&quot;&gt;&#10;&#9;&lt;li class=&quot;media&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;media-left&quot;&gt;&#10;&#9;&#9;&#9;&lt;a href=&quot;$var1$&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;img class=&quot;media-object&quot; src=&quot;$var2$&quot; alt=&quot;$var3$&quot;&gt;&#10;&#9;&#9;&#9;&lt;/a&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;media-body&quot;&gt;&#10;&#9;&#9;&#9;&lt;h4 class=&quot;media-heading&quot;&gt;$var4$&lt;/h4&gt;&#10;&#9;&#9;&#9;&lt;p&gt;$var5$&lt;/p&gt;&#10;&#9;&#9;&#9;&lt;!-- Nested media object --&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;media mt-2&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;a class=&quot;media-left&quot; href=&quot;$var6$&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;img class=&quot;media-object&quot; src=&quot;$var7$&quot; alt=&quot;$var8$&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;media-body&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;h4 class=&quot;media-heading&quot;&gt;$var9$&lt;/h4&gt;&#10;&#9;&#9;&#9;&#9;&#9;$10$&#10;&#9;&#9;&#9;&#9;&#9;&lt;!-- Nested media object --&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;media mt-2&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;media-left&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;$11$&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;img class=&quot;media-object&quot; src=&quot;$12$&quot; alt=&quot;$13$&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;media-body&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;h4 class=&quot;media-heading&quot;&gt;$14$&lt;/h4&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;$15$&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li class=&quot;media mt-2&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;media-body&quot;&gt;&#10;&#9;&#9;&#9;&lt;h4 class=&quot;media-heading&quot;&gt;$16$&lt;/h4&gt;&#10;&#9;&#9;&#9;$17$&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;media-left&quot;&gt;&#10;&#9;&#9;&#9;&lt;a href=&quot;$18$&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;img class=&quot;media-object&quot; src=&quot;$19$&quot; alt=&quot;$var2$0&quot;&gt;&#10;&#9;&#9;&#9;&lt;/a&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&lt;/li&gt;&#10;&lt;/ul&gt;$END$" description="media list" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var4" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var5" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var6" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var7" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var8" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var9" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="10" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="11" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="12" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="13" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="14" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="15" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="16" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="17" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="18" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="19" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+    </context>
+  </template>
+</templateSet>
