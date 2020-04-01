@@ -6,7 +6,7 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://localhost:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="mydbInHomeDir" uuid="bf346283-f7cd-4370-a1ff-4f95acb219ca">
+    <data-source source="LOCAL" name="H2" uuid="bf346283-f7cd-4370-a1ff-4f95acb219ca">
       <driver-ref>h2.unified</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.h2.Driver</jdbc-driver>
