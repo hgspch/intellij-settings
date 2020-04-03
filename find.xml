@@ -16,5 +16,6 @@
     <mask>*ts</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.adoc</mask>
   </component>
 </application>
