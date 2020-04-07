@@ -6,9 +6,9 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".rnd" type="PLAIN_TEXT" />
       <mapping pattern="environnement-demo-prod" type="PLAIN_TEXT" />
+      <mapping ext="jh" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="jh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
