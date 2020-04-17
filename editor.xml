@@ -15,4 +15,11 @@
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="hug" />
+    <filter name="hug">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
