@@ -18,7 +18,7 @@
         <entry key="Debug function calls" value="NOT_PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
         <entry key="Duplicate" value="NOT_PASSED" />
-        <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
+        <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
         <entry key="Extract Method" value="NOT_PASSED" />
         <entry key="Extract Variable" value="NOT_PASSED" />
@@ -43,7 +43,7 @@
         <entry key="GopherCon.Rename" value="NOT_PASSED" />
         <entry key="Hippie Completion" value="NOT_PASSED" />
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
-        <entry key="Move" value="NOT_PASSED" />
+        <entry key="Move" value="PASSED" />
         <entry key="Multiple Selections" value="NOT_PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
