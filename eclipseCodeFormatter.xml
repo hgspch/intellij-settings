@@ -1,0 +1,17 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="disabledFileTypes" value="properties; yml; yaml; yml" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1587563679608" />
+          <option name="name" value="default" />
+          <option name="optimizeImports" value="false" />
+          <option name="pathToConfigFileJava" value="F:/Users/hugo/Documents/DoubleTrade/doc developer/developer/folders/eclipse-java-formatter.xml" />
+          <option name="selectedJavaProfile" value="doubletrade" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
