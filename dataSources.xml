@@ -1,12 +1,12 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="MariaDB MusicDb" uuid="2e0ce159-a397-4ab9-a307-263a7c4d41a2">
+    <data-source source="LOCAL" name="MariaDB MusicDb" group="Learn" uuid="2e0ce159-a397-4ab9-a307-263a7c4d41a2">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://localhost:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="H2" uuid="bf346283-f7cd-4370-a1ff-4f95acb219ca">
+    <data-source source="LOCAL" name="H2" group="Learn" uuid="bf346283-f7cd-4370-a1ff-4f95acb219ca">
       <driver-ref>h2.unified</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.h2.Driver</jdbc-driver>
