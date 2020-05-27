@@ -1,11 +1,6 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="disabledLanguages">
-      <set>
-        <option value="JAVA" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="chain.hints" />
     <settingsMapElement>
       <JAVA.chain.hints>
         <Settings>
