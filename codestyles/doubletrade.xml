@@ -40,6 +40,8 @@
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
