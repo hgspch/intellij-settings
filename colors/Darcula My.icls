@@ -3,11 +3,11 @@
     <property name="created">2018-10-12T15:19:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2020-06-12T06:07:59</property>
+    <property name="modified">2020-06-17T09:39:39</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="1327" />
+    <option name="CARET_ROW_COLOR" value="d38" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="231c56" />
     <option name="INFORMATION_HINT" value="2b65" />
@@ -97,7 +97,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="f1a33" />
+        <option name="BACKGROUND" value="10121e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
