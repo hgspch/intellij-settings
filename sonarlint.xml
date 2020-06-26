@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.factory.intescia.dev" />
+          <option name="name" value="Insight SonarQube" />
+          <option name="login" value="hpichereau" />
+          <password>dfccdf9ddfccdfc9dfc8dfcfdf9bdf9cdf9ddf99df9bdfc8df99df9edfc9df9fdf9edf9bdfcedf9fdf98dfcbdf9adfc8</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
