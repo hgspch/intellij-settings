@@ -6,5 +6,10 @@
         <option value="French" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="FRENCH_WHITESPACE" />
+      </set>
+    </option>
   </component>
 </application>
