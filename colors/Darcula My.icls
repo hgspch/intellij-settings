@@ -3,7 +3,7 @@
     <property name="created">2018-10-12T15:19:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2020-08-13T11:51:02</property>
+    <property name="modified">2020-09-21T15:42:30</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -13,6 +13,17 @@
     <option name="INFORMATION_HINT" value="2b65" />
   </colors>
   <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="220022" />
+        <option name="ERROR_STRIPE_COLOR" value="664233" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="BACKGROUND" value="3f274b" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="8a1b" />
