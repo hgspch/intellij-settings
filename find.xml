@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Api.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,10 +22,10 @@
     <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*api.java</mask>
-    <mask>*Api.java</mask>
     <mask>*service.java</mask>
     <mask>*.yml</mask>
     <mask>*IT.java</mask>
     <mask>*.java</mask>
+    <mask>*Api.java</mask>
   </component>
 </application>
