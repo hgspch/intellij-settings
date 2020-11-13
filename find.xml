@@ -21,8 +21,8 @@
     <mask>*api.java</mask>
     <mask>*Api.java</mask>
     <mask>*.java</mask>
-    <mask>*IT.java</mask>
     <mask>*.yml</mask>
     <mask>*service.java</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
