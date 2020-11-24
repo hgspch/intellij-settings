@@ -22,7 +22,7 @@
     <mask>*.yml</mask>
     <mask>*service.java</mask>
     <mask>*.xml</mask>
-    <mask>*IT.java</mask>
     <mask>*.java</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
