@@ -16,13 +16,13 @@
     <mask>*.adoc</mask>
     <mask>*converter*.java</mask>
     <mask>*enum*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*api.java</mask>
     <mask>*Api.java</mask>
-    <mask>*service.java</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*service.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*IT.java</mask>
   </component>
 </application>
