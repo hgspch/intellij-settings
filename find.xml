@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\backend-business\dce-repository\src\main\java\fr\doubletrade\service\repository\dce\service\dce\DceTrackingService.java [backend-business.dce-repository]'" />
-    <option name="defaultScopeName" value="File '...\backend-business\dce-repository\src\main\java\fr\doubletrade\service\repository\dce\service\dce\DceTrackingService.java [backend-business.dce-repository]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\backend-business\dce-repository\src\main\java\fr\doubletrade\service\repository\dce\service\dce\DceTrackingService.java [backend-business.dce-repository]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
