@@ -1,5 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    font-size: 11pt !important;&#10;}&#10;body, h1, h2, h3, h4 {&#10;    font-family: Verdana, Geneva, sans-serif;&#10;}&#10;h1 {&#10;    font-size: 160% !important;&#10;}&#10;h2 {&#10;    font-size: 120% !important;&#10;}&#10;h3 {&#10;    font-size: 110% !important;&#10;}&#10;h4 {&#10;    font-size: 100% !important;&#10;}&#10;code, pre {&#10;&#9;font-size: 11pt; !important;&#10;}&#10;pre {&#10;    padding: 5px; &#10;}       &#10;&#10;" />
+    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body {&#10;    font-size: 12pt !important;&#10;}&#10;body, h1, h2, h3, h4 {&#10;    font-family: Verdana, Geneva, sans-serif;&#10;}&#10;h1 {&#10;    font-size: 160% !important;&#10;}&#10;h2 {&#10;    font-size: 120% !important;&#10;}&#10;h3 {&#10;    font-size: 110% !important;&#10;}&#10;h4 {&#10;    font-size: 100% !important;&#10;}&#10;code, pre {&#10;&#9;font-size: 12pt; !important;&#10;}&#10;pre {&#10;    padding: 5px; &#10;}       &#10;&#10;" />
   </component>
 </application>
