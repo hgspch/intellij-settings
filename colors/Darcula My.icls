@@ -3,7 +3,7 @@
     <property name="created">2018-10-12T15:19:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2020-09-21T15:42:30</property>
+    <property name="modified">2021-01-13T17:29:48</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -17,6 +17,21 @@
       <value>
         <option name="BACKGROUND" value="220022" />
         <option name="ERROR_STRIPE_COLOR" value="664233" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b2ff67" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="64c023" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffc22f" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
@@ -129,7 +144,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="392900" />
+        <option name="BACKGROUND" value="1c1300" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
