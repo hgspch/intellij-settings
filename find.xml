@@ -28,5 +28,6 @@
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>!*.ts,!*.js,!*.md,!*.map</mask>
+    <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
   </component>
 </application>
