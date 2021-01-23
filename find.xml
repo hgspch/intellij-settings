@@ -21,11 +21,13 @@
     <mask>*Api.java</mask>
     <mask>*service.java</mask>
     <mask>!*.java</mask>
-    <mask>*IT.java</mask>
     <mask>*ory.java</mask>
-    <mask>*.yml</mask>
     <mask>*Service.java</mask>
-    <mask>*.java</mask>
+    <mask>*IT.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.yml</mask>
+    <mask>!*.ts,!*.js,!*.md,!*.map</mask>
+    <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
   </component>
 </application>

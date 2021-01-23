@@ -3,7 +3,7 @@
     <property name="created">2018-10-12T15:19:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2021-01-13T17:29:48</property>
+    <property name="modified">2021-01-14T14:33:04</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -115,6 +115,11 @@
       <value>
         <option name="FOREGROUND" value="4583be" />
         <option name="BACKGROUND" value="2147" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffa923" />
       </value>
     </option>
     <option name="MY_BORDERED">
