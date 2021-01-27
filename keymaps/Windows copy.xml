@@ -1,7 +1,16 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Paste" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl colon" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="PasteMultiple" />
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
   </action>
 </keymap>
