@@ -3,7 +3,7 @@
     <property name="created">2018-10-12T15:19:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2021-02-10T14:33:43</property>
+    <property name="modified">2021-02-10T15:18:04</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -17,6 +17,11 @@
       <value>
         <option name="BACKGROUND" value="220022" />
         <option name="ERROR_STRIPE_COLOR" value="664233" />
+      </value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff8e48" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
