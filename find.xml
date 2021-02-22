@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*event.java" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -28,11 +28,11 @@
     <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java</mask>
     <mask>!IT*.java,*.java</mask>
-    <mask>*.java</mask>
     <mask>*Filter.java</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*dto.java</mask>
     <mask>*event.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
