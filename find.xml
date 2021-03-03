@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*api.java" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -15,7 +15,6 @@
     <mask>*converter*.java</mask>
     <mask>*enum*.java</mask>
     <mask>*.json</mask>
-    <mask>*api.java</mask>
     <mask>*Api.java</mask>
     <mask>*service.java</mask>
     <mask>!*.java</mask>
@@ -34,5 +33,6 @@
     <mask>*.tpl</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*api.java</mask>
   </component>
 </application>
