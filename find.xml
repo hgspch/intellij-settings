@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*salesforce*.java" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
@@ -28,11 +28,11 @@
     <mask>*dto.java</mask>
     <mask>*event.java</mask>
     <mask>*.java,!*IT.java</mask>
-    <mask>*IT.java</mask>
     <mask>*.tpl</mask>
     <mask>*api.java</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*salesforce*.java</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
