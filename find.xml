@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
@@ -17,7 +17,6 @@
     <mask>*service.java</mask>
     <mask>!*.java</mask>
     <mask>*ory.java</mask>
-    <mask>*Service.java</mask>
     <mask>!*.ts,!*.js,!*.md,!*.map</mask>
     <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java</mask>
@@ -32,6 +31,8 @@
     <mask>*salesforce*.java</mask>
     <mask>*IT.java</mask>
     <mask>*.java</mask>
+    <mask>*Service.java</mask>
+    <mask>*Mapper.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
