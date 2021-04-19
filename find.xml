@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*.java,!*IT.java,!*Test.java" />
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*IT.java</mask>
+    <mask>*.java,!*IT.java,!*Test.java</mask>
   </component>
 </application>
