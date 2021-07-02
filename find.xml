@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,!*IT.java,!*Test.java" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*ts</mask>
@@ -32,9 +32,9 @@
     <mask>*.yml</mask>
     <mask>*.json</mask>
     <mask>*elas*.java</mask>
-    <mask>*IT.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
