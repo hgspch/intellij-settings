@@ -1,9 +1,14 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="$Paste" />
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl colon" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="ctrl v" />
