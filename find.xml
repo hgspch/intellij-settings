@@ -30,8 +30,8 @@
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>!IT*.java</mask>
     <mask>!*IT.java</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
