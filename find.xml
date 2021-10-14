@@ -7,7 +7,6 @@
     <mask>*converter*.java</mask>
     <mask>*enum*.java</mask>
     <mask>*Api.java</mask>
-    <mask>*ory.java</mask>
     <mask>!*.ts,!*.js,!*.md,!*.map</mask>
     <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java,*.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*service.java</mask>
+    <mask>*ory.java</mask>
   </component>
 </application>
