@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>*converter*.java</mask>
     <mask>*enum*.java</mask>
     <mask>!*.ts,!*.js,!*.md,!*.map</mask>
@@ -26,12 +27,12 @@
     <mask>*request.java</mask>
     <mask>*service.java</mask>
     <mask>*ory.java</mask>
-    <mask>*IT.java</mask>
     <mask>*.java,!*IT.java,!*ITUtils.java,!*Generator.java,!*Test.java</mask>
     <mask>*Api.java</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
