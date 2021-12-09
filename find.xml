@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\backend-business\economic-operator-repository\src\main\java\fr\doubletrade\service\repository\economicoperator\domain\EconomicOperator.java [backend-business.economic-operator-repository]'" />
+    <option name="defaultScopeName" value="File '...\backend-business\economic-operator-repository\src\main\java\fr\doubletrade\service\repository\economicoperator\domain\EconomicOperator.java [backend-business.economic-operator-repository]'" />
+    <option name="SEARCH_SCOPE" value="File '...\backend-business\economic-operator-repository\src\main\java\fr\doubletrade\service\repository\economicoperator\domain\EconomicOperator.java [backend-business.economic-operator-repository]'" />
     <mask>!*.ts,!*.js,!*.md,!*.map</mask>
     <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java,*.java</mask>
