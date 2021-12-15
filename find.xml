@@ -3,7 +3,7 @@
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
     <option name="SEARCH_SCOPE" value="Project production files" />
-    <option name="FILE_MASK" value="*ApiIT.java" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
@@ -30,9 +30,9 @@
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*Client.java</mask>
     <mask>*Enum.java</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*IT.java</mask>
     <mask>*ApiIT.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
