@@ -27,11 +27,11 @@
     <mask>*.xml</mask>
     <mask>*Enum.java</mask>
     <mask>*ApiIT.java</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*Client.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*IT.java</mask>
     <mask>*Api.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
