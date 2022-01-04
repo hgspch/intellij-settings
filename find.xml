@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
@@ -13,7 +14,6 @@
     <mask>*api.java</mask>
     <mask>*salesforce*.java</mask>
     <mask>*Mapper.java</mask>
-    <mask>*.json</mask>
     <mask>*elas*.java</mask>
     <mask>!IT*.java</mask>
     <mask>!*IT.java</mask>
@@ -33,5 +33,6 @@
     <mask>*Api.java</mask>
     <mask>*Service.java</mask>
     <mask>*.yml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
