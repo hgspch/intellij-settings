@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
@@ -27,11 +28,11 @@
     <mask>*.java</mask>
     <mask>*Client.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
-    <mask>*IT.java</mask>
     <mask>*Api.java</mask>
     <mask>*Service.java</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
