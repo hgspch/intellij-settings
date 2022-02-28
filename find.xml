@@ -26,12 +26,12 @@
     <mask>*ApiIT.java</mask>
     <mask>*Client.java</mask>
     <mask>*Service.java</mask>
-    <mask>*.json</mask>
     <mask>*IT.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*Api.java</mask>
     <mask>*.yml</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
