@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*.ts,!*.js,!*.md,!*.map,!*.json,!*.jdl,!*.ejs</mask>
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
     <mask>*dto.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*Service.java</mask>
+    <mask>*template*.json</mask>
   </component>
 </application>
