@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project production files" />
-    <option name="defaultScopeName" value="Project production files" />
-    <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="customScope" value="Project test files" />
+    <option name="defaultScopeName" value="Project test files" />
+    <option name="SEARCH_SCOPE" value="Project test files" />
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
     <mask>*dto.java</mask>
