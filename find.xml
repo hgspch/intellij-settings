@@ -3,6 +3,7 @@
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
     <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
     <mask>*dto.java</mask>
@@ -27,11 +28,11 @@
     <mask>*IT.java</mask>
     <mask>*.xml</mask>
     <mask>*Api.java</mask>
-    <mask>*.yml</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*.json</mask>
     <mask>*Service.java</mask>
     <mask>*template*.json</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
