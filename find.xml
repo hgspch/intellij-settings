@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project test files" />
+    <option name="defaultScopeName" value="Project test files" />
+    <option name="SEARCH_SCOPE" value="Project test files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
     <mask>*dto.java</mask>
@@ -33,7 +32,7 @@
     <mask>*.json</mask>
     <mask>*Service.java</mask>
     <mask>*template*.json</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
