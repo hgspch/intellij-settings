@@ -6,6 +6,7 @@
       <mapping ext="geojson" type="JSON" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="3-java9-envers-fix" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
