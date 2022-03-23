@@ -3,7 +3,7 @@
     <property name="created">2018-10-12T15:19:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2021-03-08T11:56:18</property>
+    <property name="modified">2022-03-23T11:25:54</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -192,7 +192,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1c1300" />
+        <option name="BACKGROUND" value="2c1e00" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
