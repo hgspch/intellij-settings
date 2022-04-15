@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*Service.java" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>!IT*.java,*.java</mask>
     <mask>*Filter.java</mask>
     <mask>*dto.java</mask>
@@ -27,7 +25,6 @@
     <mask>*Enum.java</mask>
     <mask>*ApiIT.java</mask>
     <mask>*Client.java</mask>
-    <mask>*IT.java</mask>
     <mask>*Api.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*template*.json</mask>
@@ -36,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*Service.java</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
