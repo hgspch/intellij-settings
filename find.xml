@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*ServiceIT.java" />
+    <option name="FILE_MASK" value="*.java,!*IT.java,!*Test.java" />
     <mask>*Filter.java</mask>
     <mask>*dto.java</mask>
     <mask>*event.java</mask>
@@ -24,7 +24,6 @@
     <mask>*Enum.java</mask>
     <mask>*Client.java</mask>
     <mask>*Api.java</mask>
-    <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*template*.json</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
@@ -34,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*ApiIT.java</mask>
     <mask>*ServiceIT.java</mask>
+    <mask>*.java,!*IT.java,!*Test.java</mask>
   </component>
 </application>
