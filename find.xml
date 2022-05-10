@@ -31,7 +31,7 @@
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>*IT.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
