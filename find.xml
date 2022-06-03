@@ -24,7 +24,6 @@
     <mask>*Client.java</mask>
     <mask>*Api.java</mask>
     <mask>*template*.json</mask>
-    <mask>*.xml</mask>
     <mask>*Service.java</mask>
     <mask>*ApiIT.java</mask>
     <mask>*ServiceIT.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*IT.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
