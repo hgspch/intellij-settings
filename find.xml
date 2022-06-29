@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\java-modules\commons-files\src\main\java\fr\doubletrade\modules\commons\files\service\tab\TabAnalyzerXSSFB.java [java-modules.commons-files]'" />
-    <option name="defaultScopeName" value="File '…\java-modules\commons-files\src\main\java\fr\doubletrade\modules\commons\files\service\tab\TabAnalyzerXSSFB.java [java-modules.commons-files]'" />
-    <option name="SEARCH_SCOPE" value="File '…\java-modules\commons-files\src\main\java\fr\doubletrade\modules\commons\files\service\tab\TabAnalyzerXSSFB.java [java-modules.commons-files]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Filter.java</mask>
     <mask>*dto.java</mask>
     <mask>*event.java</mask>
