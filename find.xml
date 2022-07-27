@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*AmountCriteriaParser.java" />
+    <option name="FILE_MASK" value="*.java,!*IT.java,!*Test.java" />
     <mask>*event.java</mask>
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
@@ -32,7 +32,7 @@
     <mask>*IT.java, *Test.java</mask>
     <mask>*.yml</mask>
     <mask>*IT.java</mask>
-    <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*AmountCriteriaParser.java</mask>
+    <mask>*.java,!*IT.java,!*Test.java</mask>
   </component>
 </application>
