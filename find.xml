@@ -27,7 +27,6 @@
     <mask>*ApiIT.java</mask>
     <mask>*ServiceIT.java</mask>
     <mask>*.json</mask>
-    <mask>*.xml</mask>
     <mask>*api.java</mask>
     <mask>*.java</mask>
     <mask>*IT.java, *Test.java</mask>
@@ -35,5 +34,6 @@
     <mask>*IT.java</mask>
     <mask>*AmountCriteriaParser.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
