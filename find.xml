@@ -5,7 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*event.java</mask>
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
@@ -30,11 +30,11 @@
     <mask>*.json</mask>
     <mask>*api.java</mask>
     <mask>*IT.java, *Test.java</mask>
-    <mask>*.yml</mask>
     <mask>*AmountCriteriaParser.java</mask>
     <mask>*.xml</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*IT.java</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
