@@ -43,6 +43,9 @@
             <Goal>
               <option name="commandLine" value="compile -DDIE_REPOSITORY_MARIA_ENV_MYSQL_DATABASE=die -DDIE_REPOSITORY_MARIA_ENV_MYSQL_USER=die_repository_user -DDIE_REPOSITORY_MARIA_ENV_MYSQL_PASSWORD=die_repository_pass liquibase:update" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="compile -DCONTRACT_REPOSITORY_MARIA_ENV_MYSQL_DATABASE=contract -DCONTRACT_REPOSITORY_MARIA_ENV_MYSQL_USER=contract_repository_user -DCONTRACT_REPOSITORY_MARIA_ENV_MYSQL_PASSWORD=contract_repository_pass liquibase:diff" />
+            </Goal>
           </list>
         </option>
       </Goals>
