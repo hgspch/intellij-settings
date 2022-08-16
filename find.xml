@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Test Files" />
-    <option name="defaultScopeName" value="Project Test Files" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="preserveCase" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Test Files" />
-    <option name="FILE_MASK" value="*.java,!*IT.java,!*Test.java" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*event.java</mask>
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
