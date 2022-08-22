@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
@@ -26,7 +24,6 @@
     <mask>*ApiIT.java</mask>
     <mask>*ServiceIT.java</mask>
     <mask>*.json</mask>
-    <mask>*api.java</mask>
     <mask>*AmountCriteriaParser.java</mask>
     <mask>*.xml</mask>
     <mask>*IT.java</mask>
@@ -35,5 +32,6 @@
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*IT.java, *Test.java</mask>
     <mask>*Repository.java</mask>
+    <mask>*api.java</mask>
   </component>
 </application>
