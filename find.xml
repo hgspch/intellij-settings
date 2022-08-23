@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
     <mask>*salesforce*.java</mask>
@@ -28,10 +29,10 @@
     <mask>*.xml</mask>
     <mask>*IT.java</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*IT.java, *Test.java</mask>
     <mask>*Repository.java</mask>
     <mask>*api.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
