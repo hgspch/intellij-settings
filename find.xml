@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*IT.java, *Test.java" />
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
     <mask>*salesforce*.java</mask>
@@ -32,9 +32,9 @@
     <mask>*IT.java</mask>
     <mask>*.yml</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
-    <mask>*IT.java, *Test.java</mask>
     <mask>*Repository.java</mask>
     <mask>*api.java</mask>
     <mask>*.java</mask>
+    <mask>*IT.java, *Test.java</mask>
   </component>
 </application>
