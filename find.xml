@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*Api.java" />
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
     <mask>*salesforce*.java</mask>
@@ -30,9 +30,9 @@
     <mask>*api.java</mask>
     <mask>*IT.java</mask>
     <mask>*ApiIT.java</mask>
-    <mask>*Api.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*Api.java</mask>
   </component>
 </application>
