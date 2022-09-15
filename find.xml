@@ -29,9 +29,9 @@
     <mask>*api.java</mask>
     <mask>*ApiIT.java</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*Api.java</mask>
     <mask>*IT.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
