@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
     <mask>*salesforce*.java</mask>
@@ -31,7 +34,7 @@
     <mask>*Api.java</mask>
     <mask>*IT.java</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*IT.java, *Test.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
