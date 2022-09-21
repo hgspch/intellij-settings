@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.java,!*IT.java,!*Test.java" />
     <mask>*.java,!*IT.java</mask>
     <mask>*.tpl</mask>
     <mask>*salesforce*.java</mask>
@@ -24,7 +24,6 @@
     <mask>*ServiceIT.java</mask>
     <mask>*.json</mask>
     <mask>*AmountCriteriaParser.java</mask>
-    <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*Repository.java</mask>
     <mask>*api.java</mask>
     <mask>*ApiIT.java</mask>
@@ -34,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*IT.java, *Test.java</mask>
     <mask>*.java</mask>
+    <mask>*.java,!*IT.java,!*Test.java</mask>
   </component>
 </application>
