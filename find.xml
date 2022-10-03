@@ -3,8 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java,!*IT.java,!*Test.java" />
-    <mask>*.java,!*IT.java</mask>
+    <option name="FILE_MASK" value="*ator.java" />
     <mask>*.tpl</mask>
     <mask>*salesforce*.java</mask>
     <mask>*Mapper.java</mask>
@@ -34,5 +33,6 @@
     <mask>*IT.java, *Test.java</mask>
     <mask>*.java</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
+    <mask>*ator.java</mask>
   </component>
 </application>
