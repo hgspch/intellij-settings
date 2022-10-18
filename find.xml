@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Client.java" />
     <mask>*salesforce*.java</mask>
     <mask>*Mapper.java</mask>
     <mask>*elas*.java</mask>
@@ -15,7 +16,6 @@
     <mask>*ory.java</mask>
     <mask>*.java,!*IT.java,!*ITUtils.java,!*Generator.java,!*Test.java</mask>
     <mask>*Enum.java</mask>
-    <mask>*Client.java</mask>
     <mask>*template*.json</mask>
     <mask>*Service.java</mask>
     <mask>*ServiceIT.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*Request.java</mask>
     <mask>*.java</mask>
+    <mask>*Client.java</mask>
   </component>
 </application>
