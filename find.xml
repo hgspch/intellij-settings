@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*salesforce*.java</mask>
     <mask>*Mapper.java</mask>
     <mask>*elas*.java</mask>
@@ -29,9 +30,9 @@
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*ator.java</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
     <mask>*Request.java</mask>
     <mask>*.java</mask>
     <mask>*Client.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
