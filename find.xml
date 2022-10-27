@@ -30,8 +30,8 @@
     <mask>*ator.java</mask>
     <mask>*.xml</mask>
     <mask>*Request.java</mask>
-    <mask>*.java</mask>
     <mask>*Client.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
