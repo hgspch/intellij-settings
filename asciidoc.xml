@@ -1,7 +1,7 @@
 <application>
   <component name="AsciidocApplicationSettings">
     <option name="pluginVersion" value="0.37.54" />
-    <AsciiDocPreviewSettings PreviewTheme="AsciiDoc darcula" KrokiUrl="" HideErrorsByLanguage="">
+    <AsciiDocPreviewSettings PreviewTheme="AsciiDoc darcula" KrokiUrl="" Zoom="80" HideErrorsByLanguage="">
       <option name="hideErrorsByLanguage" value="" />
     </AsciiDocPreviewSettings>
   </component>
