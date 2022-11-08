@@ -3,7 +3,6 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*ner.java" />
     <mask>*Mapper.java</mask>
     <mask>*elas*.java</mask>
     <mask>!IT*.java</mask>
