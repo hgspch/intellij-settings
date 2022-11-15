@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*Mapper.java</mask>
     <mask>*elas*.java</mask>
     <mask>!IT*.java</mask>
@@ -30,10 +31,10 @@
     <mask>*ator.java</mask>
     <mask>*Request.java</mask>
     <mask>*Client.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*Api.java</mask>
     <mask>*.yml</mask>
     <mask>*ner.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
