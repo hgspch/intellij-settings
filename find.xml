@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Mapper.java</mask>
     <mask>*elas*.java</mask>
     <mask>!IT*.java</mask>
@@ -28,10 +29,10 @@
     <mask>*ator.java</mask>
     <mask>*Request.java</mask>
     <mask>*Client.java</mask>
-    <mask>*.xml</mask>
     <mask>*Api.java</mask>
     <mask>*ner.java</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
