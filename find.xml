@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*elas*.java</mask>
+    <option name="FILE_MASK" value="*back.xml" />
     <mask>!IT*.java</mask>
     <mask>!*IT.java</mask>
     <mask>!*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*IT.java</mask>
     <mask>*Model.java</mask>
+    <mask>*back.xml</mask>
   </component>
 </application>
