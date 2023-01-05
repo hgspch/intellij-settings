@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>!IT*.java</mask>
     <mask>!*IT.java</mask>
     <mask>!*.java</mask>
@@ -29,9 +30,9 @@
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*ner.java</mask>
-    <mask>*.java</mask>
     <mask>*IT.java</mask>
     <mask>*Model.java</mask>
     <mask>*back.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
