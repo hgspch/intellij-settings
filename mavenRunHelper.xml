@@ -46,6 +46,9 @@
             <Goal>
               <option name="commandLine" value="compile -DCONTRACT_REPOSITORY_MARIA_ENV_MYSQL_DATABASE=contract -DCONTRACT_REPOSITORY_MARIA_ENV_MYSQL_USER=contract_repository_user -DCONTRACT_REPOSITORY_MARIA_ENV_MYSQL_PASSWORD=contract_repository_pass liquibase:diff" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="compile -DRNE_IMPORT_MARIA_ENV_MYSQL_DATABASE=rneimport -DRNE_IMPORT_MARIA_ENV_MYSQL_USER=rne_import_user -DRNE_IMPORT_MARIA_ENV_MYSQL_PASSWORD=rne_import_pass liquibase:diff" />
+            </Goal>
           </list>
         </option>
       </Goals>
