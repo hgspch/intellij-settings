@@ -44,6 +44,7 @@
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
