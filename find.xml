@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.yml" />
     <mask>!*IT.java</mask>
     <mask>!*.java</mask>
     <mask>*Api.java,!*IT.java,!*Test.java</mask>
@@ -34,7 +31,7 @@
     <mask>*Repository.java</mask>
     <mask>*ApiIt.java</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
