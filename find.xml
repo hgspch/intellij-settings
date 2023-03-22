@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>!*IT.java</mask>
     <mask>!*.java</mask>
     <mask>*Api.java,!*IT.java,!*Test.java</mask>
@@ -32,8 +33,8 @@
     <mask>*.java,!*IT.java,!*Test.java</mask>
     <mask>*Repository.java</mask>
     <mask>*ApiIt.java</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
