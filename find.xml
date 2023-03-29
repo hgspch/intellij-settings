@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>!*IT.java</mask>
     <mask>!*.java</mask>
     <mask>*Api.java,!*IT.java,!*Test.java</mask>
@@ -26,7 +27,6 @@
     <mask>*Client.java</mask>
     <mask>*Api.java</mask>
     <mask>*ner.java</mask>
-    <mask>*IT.java</mask>
     <mask>*Model.java</mask>
     <mask>*back.xml</mask>
     <mask>*.java,!*IT.java,!*Test.java</mask>
@@ -35,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
